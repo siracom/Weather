@@ -1,0 +1,6 @@
+body{
+    padding: 7% 15%;
+    background-image: url("weather-forecast.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
