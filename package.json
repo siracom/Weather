@@ -1,0 +1,31 @@
+{
+  "name": "weather",
+  "version": "1.1.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sivakumar",
+  "license": "ISC",
+  "description": "Get Live Weather Updates for a location",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siracom/Weather.git"
+  },
+  "keywords": [
+    "Weather",
+    "Update",
+    "Live",
+    "Location",
+    "City"
+  ],
+  "bugs": {
+    "url": "https://github.com/siracom/Weather/issues"
+  },
+  "homepage": "https://github.com/siracom/Weather#readme"
+}
